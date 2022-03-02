@@ -1,4 +1,4 @@
 # gulyasgabor
--alma
--körte
--barack
+- alma
+- körte
+- barack
