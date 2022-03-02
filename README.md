@@ -1,1 +1,4 @@
 # gulyasgabor
+-alma
+-körte
+-barack
